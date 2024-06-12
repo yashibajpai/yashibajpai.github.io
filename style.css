@@ -1,0 +1,147 @@
+body {
+    background-color: #b68af4;
+    width: 100%;
+}
+
+.bg-dark-purple {
+    background-color: #b68af4;
+}
+
+.text-black {
+    color: black;
+}
+
+a.dark-purple-link {
+    color: #7851A9; 
+}
+
+a.hover{
+    color: black;
+}
+
+#home {
+    min-height: 85vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10rem; 
+    padding-bottom: 5rem;
+    position: relative;
+    z-index: 1;
+}
+
+#about {
+    min-height: 85vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10rem; 
+    padding-bottom: 5rem;
+    position: relative;
+    z-index: 1;
+}
+
+#contact {
+    min-height: 85vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10rem; 
+    padding-bottom: 5rem;
+    position: relative;
+    z-index: 1;
+}
+
+#project {
+    min-height: 85vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10rem; 
+    padding-bottom: 5rem;
+    position: relative;
+    z-index: 1;
+}
+
+h1.dis-4 {
+    font-size: 2.5rem;
+}
+
+h1.dis-1 {
+    font-size: 4rem;
+}
+
+h1.dis-3 {
+    font-size: 5rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    align-items: end;
+    justify-content: flex-end;
+}
+
+.img-fluid {
+    scale: 0.6;
+    border: 4px solid #fff;
+}
+
+.img-flu {
+    scale: 1;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.text-md-end {
+    text-align: right;
+}
+
+.text-md-start {
+    text-align: left;
+}
+
+.adjust-right {
+    margin-left: 50px;
+}
+
+.adjust-left {
+    margin-right: 50px;
+}
+
+.adjust-bottom {
+    margin-top: 50px;
+}
+
+.adjust-top {
+    margin-bottom: 50px;
+}
+
+.container{
+    text-wrap: wrap;
+}
+
+.btn{
+    color: purple;
+}
+
